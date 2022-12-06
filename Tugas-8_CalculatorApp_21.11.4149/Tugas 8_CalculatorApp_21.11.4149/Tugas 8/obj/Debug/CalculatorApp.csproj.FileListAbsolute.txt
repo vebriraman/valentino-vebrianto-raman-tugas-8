@@ -1,0 +1,24 @@
+C:\Users\Lenovo\Downloads\Tugas8_21.11.4147_Delegate-Event-main\Tugas 8_21.11.4147\Tugas 8\bin\Debug\Tugas 8.exe.config
+C:\Users\Lenovo\Downloads\Tugas8_21.11.4147_Delegate-Event-main\Tugas 8_21.11.4147\Tugas 8\bin\Debug\Tugas 8.exe
+C:\Users\Lenovo\Downloads\Tugas8_21.11.4147_Delegate-Event-main\Tugas 8_21.11.4147\Tugas 8\bin\Debug\Tugas 8.pdb
+C:\Users\Lenovo\Downloads\Tugas8_21.11.4147_Delegate-Event-main\Tugas 8_21.11.4147\Tugas 8\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Tugas8_21.11.4147_Delegate-Event-main\Tugas 8_21.11.4147\Tugas 8\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Downloads\Tugas8_21.11.4147_Delegate-Event-main\Tugas 8_21.11.4147\Tugas 8\obj\Debug\Tugas_8.Calculator.resources
+C:\Users\Lenovo\Downloads\Tugas8_21.11.4147_Delegate-Event-main\Tugas 8_21.11.4147\Tugas 8\obj\Debug\Tugas_8.HasilPerhitungan.resources
+C:\Users\Lenovo\Downloads\Tugas8_21.11.4147_Delegate-Event-main\Tugas 8_21.11.4147\Tugas 8\obj\Debug\Tugas_8.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\Tugas8_21.11.4147_Delegate-Event-main\Tugas 8_21.11.4147\Tugas 8\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\Tugas8_21.11.4147_Delegate-Event-main\Tugas 8_21.11.4147\Tugas 8\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Tugas8_21.11.4147_Delegate-Event-main\Tugas 8_21.11.4147\Tugas 8\obj\Debug\Tugas 8.exe
+C:\Users\Lenovo\Downloads\Tugas8_21.11.4147_Delegate-Event-main\Tugas 8_21.11.4147\Tugas 8\obj\Debug\Tugas 8.pdb
+C:\Users\Lenovo\Downloads\Tugas8_21.11.4147_Delegate-Event-main\Tugas 8_CalculatorApp_21.11.4161\Tugas 8\bin\Debug\Tugas 8.exe.config
+C:\Users\Lenovo\Downloads\Tugas8_21.11.4147_Delegate-Event-main\Tugas 8_CalculatorApp_21.11.4161\Tugas 8\bin\Debug\Tugas 8.exe
+C:\Users\Lenovo\Downloads\Tugas8_21.11.4147_Delegate-Event-main\Tugas 8_CalculatorApp_21.11.4161\Tugas 8\bin\Debug\Tugas 8.pdb
+C:\Users\Lenovo\Downloads\Tugas8_21.11.4147_Delegate-Event-main\Tugas 8_CalculatorApp_21.11.4161\Tugas 8\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Tugas8_21.11.4147_Delegate-Event-main\Tugas 8_CalculatorApp_21.11.4161\Tugas 8\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Downloads\Tugas8_21.11.4147_Delegate-Event-main\Tugas 8_CalculatorApp_21.11.4161\Tugas 8\obj\Debug\Tugas_8.Calculator.resources
+C:\Users\Lenovo\Downloads\Tugas8_21.11.4147_Delegate-Event-main\Tugas 8_CalculatorApp_21.11.4161\Tugas 8\obj\Debug\Tugas_8.HasilPerhitungan.resources
+C:\Users\Lenovo\Downloads\Tugas8_21.11.4147_Delegate-Event-main\Tugas 8_CalculatorApp_21.11.4161\Tugas 8\obj\Debug\Tugas_8.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\Tugas8_21.11.4147_Delegate-Event-main\Tugas 8_CalculatorApp_21.11.4161\Tugas 8\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\Tugas8_21.11.4147_Delegate-Event-main\Tugas 8_CalculatorApp_21.11.4161\Tugas 8\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Tugas8_21.11.4147_Delegate-Event-main\Tugas 8_CalculatorApp_21.11.4161\Tugas 8\obj\Debug\Tugas 8.exe
+C:\Users\Lenovo\Downloads\Tugas8_21.11.4147_Delegate-Event-main\Tugas 8_CalculatorApp_21.11.4161\Tugas 8\obj\Debug\Tugas 8.pdb
